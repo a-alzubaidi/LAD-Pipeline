@@ -1,4 +1,4 @@
 # LAD-Pipeline: Log Anomaly Detection Pipeline
-This repository will host the containerized pipeline code, feature extraction modules, configuration files, and reproduction scripts for the manuscript:
+This repository will host a reference implementation of the pipeline accompanying the associated manuscript.
 
-The repository is currently being prepared for release. The complete containerized execution environment and replication assets will be made available upon manuscript acceptance.
+This repository will host a reference implementation of the pipeline accompanying the associated manuscript. The code is being prepared for public release and will be made available by the time of publication.
